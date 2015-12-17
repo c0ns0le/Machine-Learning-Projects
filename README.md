@@ -1,5 +1,5 @@
 # Machine-Learning-Projects
-Small independent projects using public datasets
+Small independent projects using public datasets (These are all OLD PROJECTS (circa Summer 2015)
 
 CitiGroup Bike Rental Analysis
 -----------------------------------------------------------------------------------------------------------------------------------------
