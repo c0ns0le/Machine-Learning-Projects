@@ -3,7 +3,7 @@ Small independent projects using public datasets
 
 CitiGroup Bike Rental Analysis
 -----------------------------------------------------------------------------------------------------------------------------------------
-Analysis of bike rentals and usage patterns with NYC and Seattle, WA. 
+Analysis of bike rentals and usage patterns with NYC and Seattle, WA. Spoiler: They are quite different.
 
 Coursera Mining
 -----------------------------------------------------------------------------------------------------------------------------------------
