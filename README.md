@@ -9,7 +9,7 @@ Coursera Mining
 -----------------------------------------------------------------------------------------------------------------------------------------
 Mining Coursera for top courses and also mining social media to discover top courses for a given topic.
 
-Deaths on Titanic
+Deaths on R.M.S Titanic
 -----------------------------------------------------------------------------------------------------------------------------------------
 Using preboard data to predict who will survive with a lifeboat and who will not on the R.M.S Titanic. Feature engineering from many different aspects of the trip ranging from ticket information, boarding location, social status, location on board, age, sex, etc.
 The gender based model is a simpler version with the only feature being gender - depicts how sometimes the simplest model is the best. Spoiler: Women and children received high priority for lifeboats followed by those of high status.
